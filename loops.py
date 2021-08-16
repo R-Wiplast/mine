@@ -1,5 +1,4 @@
-#for and while loops
-
+# for and while loops
 print()
 country = ["taiwan","japan"]
 for name in country:

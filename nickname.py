@@ -1,4 +1,4 @@
-#this tool selects the first letter of your name
+# this tool selects the first letter of your name
 def get_first_letter(name):
     first_letter = name[0:1].upper()   
     return first_letter

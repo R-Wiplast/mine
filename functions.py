@@ -1,4 +1,4 @@
-#print taskname and datetime
+# print taskname and datetime
 import datetime
 from datetime import datetime
 def print_time(taskname):
