@@ -1,3 +1,4 @@
+# See what the tax rate is
 
 planet = input("What planet are you on?").lower()
 tax = 0

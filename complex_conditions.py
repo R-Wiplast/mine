@@ -1,3 +1,5 @@
+# see how did you do in school
+
 A_grade = float(input("What's your average grade? "))
 L_grade = float(input("What's your lowest grade? "))
 

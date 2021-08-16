@@ -1,4 +1,4 @@
-
+# Print personality acording to your blood type
 dict1 = {"A":"有趣","B":"無聊","O":"果斷","AB":"天真"}
 bloodtype = input("輸入血型: ").upper()
 
